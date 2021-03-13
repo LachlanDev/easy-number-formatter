@@ -1,7 +1,7 @@
-// Made by PapaSnags
-// Website: papa-snags.com
-// Twitter: @PapaSnags
-// GitHub: PapaSnags
+// Made by LachlanDev
+// Website: lachlan-dev.com
+// Twitter: @LachlanDev
+// GitHub: LachlanDev
 exports.formatNumber = function(number){
     const numformat = n => {
         if (n < 1e3) return n;
