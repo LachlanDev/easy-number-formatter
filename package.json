@@ -1,6 +1,6 @@
 {
   "name": "easy-number-formatter",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Simple Number format script (Convert 1000 - 1K)",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/PapaSnags/easy-number-formatter"
+    "url": "https://github.com/LachlanDev/easy-number-formatter"
   },
-  "author": "PapaSnags",
+  "author": "LachlanDev",
   "license": "ISC"
 }
