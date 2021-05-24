@@ -1,4 +1,7 @@
 # easy-number-formatter
+<div id="npmStats"><a href="https://www.npmjs.com/package/easy-number-formatter"><img src="https://badgen.now.sh/npm/v/easy-number-formatter" alt="version" /></a>
+<a href="https://www.npmjs.com/package/easy-number-formatter"><img src="https://badgen.now.sh/npm/dm/easy-number-formatter" alt="downloads" /></a>
+<a href="https://www.npmjs.com/package/easy-number-formatter"><img src="https://badgen.now.sh/npm/dd/easy-number-formatter" alt="downloads" /></a></div>
  Simple Number format script (Convert 1000 - 1K)
 
 ## About
